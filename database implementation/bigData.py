@@ -1,5 +1,3 @@
-#dsd=open('lmao.py','r+')
-#import lmao
 
 import discord
 import json
